@@ -21,7 +21,7 @@
 
 {
     "name": "IGIC (Impuesto General Indirecto Canario)",
-    "version": "8.0.0.1",
+    "version": "10.0.1.0.0",
     "author": "David Diz Martínez <daviddiz@gmail.com>,"
               "Atlantux Consultores - Enrique Zanardi,"
               "Odoo Community Association (OCA)",
@@ -34,7 +34,6 @@
     "data": [
         "data/account_chart_template_igic.xml",
         "data/account_account_igic.xml",
-        "data/tax_codes_igic.xml",
         "data/taxes_igic.xml",
         "data/account_chart_template_igic_post.xml",
         "data/fiscal_positions_igic.xml",
